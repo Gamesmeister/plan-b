@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "ae912260-20df-4d04-a81f-94dbd8254910",
+  "id": "87ae9cbe-e926-47b2-9a9c-91805bfbc93d",
   "alias": "IdeaOverviewWebPart",
   "componentType": "WebPart",
 
@@ -17,7 +17,7 @@
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
     "group": { "default": "Other" },
     "title": { "default": "Idea Overview" },
-    "description": { "default": "Contains an overview of current ideas in a list format" },
+    "description": { "default": "Displays a list of ideas" },
     "officeFabricIconFontName": "Page",
     "properties": {
       "description": "Idea Overview"

@@ -3,8 +3,8 @@
     "isCreatingSolution": true,
     "environment": "spo",
     "version": "1.5.1",
-    "libraryName": "list-overview",
-    "libraryId": "e0288811-8179-4571-b51b-79c565608a41",
+    "libraryName": "idea-overview",
+    "libraryId": "cb912626-89f8-494e-b31b-a6c4be93b926",
     "packageManager": "npm",
     "componentType": "webpart"
   }
